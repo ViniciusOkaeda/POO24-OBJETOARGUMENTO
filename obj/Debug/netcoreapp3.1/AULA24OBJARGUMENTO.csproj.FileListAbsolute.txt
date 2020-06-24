@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\bin\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.exe
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\bin\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.deps.json
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\bin\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\bin\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\bin\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.dll
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\bin\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.pdb
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\obj\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\obj\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\obj\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\obj\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\obj\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.dll
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\obj\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.pdb
+C:\Users\vinicius\Documents\AULA24OBJARGUMENTO\obj\Debug\netcoreapp3.1\AULA24OBJARGUMENTO.genruntimeconfig.cache
